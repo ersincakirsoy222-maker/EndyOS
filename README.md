@@ -64,5 +64,6 @@ For development updates, announcements, releases, previews, and other EndyOS-rel
 Thanks to the Android modding community, open-source developers, testers, and everyone who contributes tools, research, documentation, and knowledge that makes projects like EndyOS possible.
 
 ---
+Donate : buymeacoffee.com/ersincakirh
 
 **EndyOS — HyperOS, refined.**
